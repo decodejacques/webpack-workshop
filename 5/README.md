@@ -6,7 +6,7 @@ Create a webpage using the ReactDOM and React npm libraries.
 2. Create an HTML file that loads your bundle.js file. Make sure it has a div with an ID. Place the file in your new directory.
 3. run `npm init -y` from your new directory
 4. Install the react and react-dom npm packages in your new directory
-5. Create a javascript file that imports the react and react-dom packages and populates the div from step 2. Place it in your new directory
+5. Create a javascript file that imports the react and react-dom packages and populates the div from step 2. Place it in your new directory. Here is how you can import the ract and react-dom packages:
 
 ```javascript
 import React from 'react'
