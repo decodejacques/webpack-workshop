@@ -2,7 +2,7 @@
 Create a webpage using the ReactDOM and React npm libraries.
 
 ## Steps
-1. Create a new project directory in a studentcode
+1. Create a new project directory in `~/decode`
 2. Create an HTML file that loads your bundle.js file. Make sure it has a div with an ID.
 3. Use npm init
 4. Install the react and react-dom npm packages
